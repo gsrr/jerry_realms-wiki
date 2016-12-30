@@ -1,0 +1,12 @@
+{
+    "ALLOW_ANON": true,
+    "BASE_URL": "http://localhost",
+    "CACHE_TYPE": "simple",
+    "DB_URI": "sqlite:////root/git/jerry_realms-wiki/wiki.db",
+    "PORT": 5599,
+    "REGISTRATION_ENABLED": true,
+    "SEARCH_TYPE": "simple",
+    "SECRET_KEY": "Z4ojCtr51Zp0TSEQDxCMcXB2p31r7fcdVbhP8bVkFsEfZ2XfZUjF7B04ho0Mf6Cb",
+    "SITE_TITLE": "Jerry's Realms",
+    "WIKI_PATH": "/root/git/jerry_realms-wiki/data"
+}
